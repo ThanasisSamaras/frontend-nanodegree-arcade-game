@@ -1,6 +1,23 @@
-frontend-nanodegree-arcade-game
+Classic Arcade Game Clone
 ===============================
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+Provided with a game engine and art assets by [Udacity](https://www.udacity.com/), the classic arcade game "Frogger" is recreated using Object-Oriented JavaScript and HTML5 Canvas.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+## Play the Game
+
+You can play the game by downloading the repository and clicking on the "index.html" file, which will open it on your default browser.
+
+To play the game, use the Up, Down, Left and Right keys from your keyboard to move the player across the canvas.
+
+## Game Rules
+
+- Every time the player reaches the sea, you win 1 point.
+- If the player is hit by a bug, you will lose 1 point.
+- You can win the game by scoring 3 points or you can lose it with a -3 score.
+
+Enjoy the game! :smiley:
+
+## References
+
+- https://discussions.udacity.com/t/trying-to-identify-collisions-but-how-do-i-compare-enemy-x-with-player-x/29930/8
+- http://stackoverflow.com/questions/30008510/how-to-display-the-users-game-score-on-screen-in-realtime-instead-of-in-an-ale
